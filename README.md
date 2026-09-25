@@ -2,6 +2,7 @@
 A machine learning project that predicts **weekly retail sales** using historical sales data, store characteristics, promotional activities, holidays, and seasonal factors. The project uses **Random Forest Regression** to identify key sales drivers and support data-driven inventory and supply chain decisions.
 
 **Author:** Ankit Kumar
+
 **College:** MNNIT Allahabad
 
 ---
